@@ -1,5 +1,6 @@
 # **Energy Consumption and Production Analysis, Predictions with Bayesian Model**
-![DALL·E 2024-01-03 17 47 30 - A futuristic, high-tech control room for a global renewable energy grid management system  The room is filled with large, interactive touch screens di (2)](https://github.com/ViswanathRajuIndukuri/Energy-Consumption-and-Production-Analysis-Predictions-with-Bayesian-Model/assets/144731305/caba42cb-726b-49db-a9d6-a700855bd566)
+![DALL·E 2024-01-03 17 47 06 - A conceptual image representing energy consumption and production analysis using a Bayesian model  The image includes a backdrop of an energy grid, sh](https://github.com/ViswanathRajuIndukuri/Energy-Consumption-and-Production-Analysis-Predictions-with-Bayesian-Model/assets/144731305/07bb2979-5f09-4506-bfd8-f9cd39801b31)
+
 
 
 ## Description
