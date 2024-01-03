@@ -1,4 +1,5 @@
 # **Energy Consumption and Production Analysis, Predictions with Bayesian Model**
+![image](https://github.com/ViswanathRajuIndukuri/Energy-Consumption-and-Production-Analysis-Predictions-with-Bayesian-Model/assets/144731305/fe4de893-56ba-431a-b2c5-d7587e196f03)
 
 ## Description
 
